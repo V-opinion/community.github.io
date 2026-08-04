@@ -35,4 +35,4 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://blog.multireligionvalsystem.eu.org/sitemap.xml
+Sitemap: https://community.multireligionvalsystem.eu.org/sitemap.xml
