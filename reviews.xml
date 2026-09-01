@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multireligionvalsystem - Featured Reviews &amp; Testimonials</title>
+    <link>https://community.multireligionvalsystem.eu.org/</link>
+    <description>Top member reviews, testimonials, and community feedback.</description>
+    <atom:link href="https://community.multireligionvalsystem.eu.org/reviews.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+      <title>★★★★★ "An essential resource for interfaith dialogue"</title>
+      <link>https://community.multireligionvalsystem.eu.org/</link>
+      <guid isPermaLink="false">review-001</guid>
+      <description><![CDATA[<blockquote>"The insights provided on this platform helped our organization understand complex multi-faith initiatives much better."</blockquote> &mdash; <strong>Anna S.</strong>, Community Organizer]]></description>
+      <pubDate>Wed, 02 Sep 2026 10:00:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
