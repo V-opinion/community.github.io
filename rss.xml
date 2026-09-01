@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Multireligionvalsystem Community</title>
+    <link>https://community.multireligionvalsystem.eu.org/</link>
+    <description>Latest posts and updates from Multireligionvalsystem</description>
+    <item>
+      <title>Example Post Title</title>
+      <link>https://community.multireligionvalsystem.eu.org/</link>
+      <description>Summary of the post.</description>
+      <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
