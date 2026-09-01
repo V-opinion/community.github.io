@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Multireligionvalsystem Community</title>
     <link>https://community.multireligionvalsystem.eu.org/</link>
     <description>Latest posts and updates from Multireligionvalsystem</description>
+    <atom:link href="https://community.multireligionvalsystem.eu.org/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Example Post Title</title>
       <link>https://community.multireligionvalsystem.eu.org/</link>
+      <guid isPermaLink="true">https://community.multireligionvalsystem.eu.org/</guid>
       <description>Summary of the post.</description>
       <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
     </item>
